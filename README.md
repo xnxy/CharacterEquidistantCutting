@@ -1,0 +1,2 @@
+# CharacterEquidistantCutting
+根据字号对字符串等宽剪切
